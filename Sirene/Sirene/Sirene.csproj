@@ -13,7 +13,7 @@
   <ItemGroup>
     <PackageReference Include="Correios-Api" Version="1.1.1" />
     <PackageReference Include="FirebaseDatabase.net" Version="4.0.6" />
-    <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="5.0.0-preview.1.20124.5" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="6.0.0-preview.3.21201.13" />
     <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
     <PackageReference Include="System.ServiceModel.Primitives" Version="4.8.1" />
     <PackageReference Include="Xam.Plugin.DeviceInfo" Version="4.1.1" />
